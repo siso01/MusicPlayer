@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OlaPlay</string>
+    <string name="media_url_mp3">http://hck.re/Rh8KTk</string>
+    <string name="artists">Artists :</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="remove_location_updates">Remove location updates</string>
+
+</resources>
